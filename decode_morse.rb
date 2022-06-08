@@ -27,6 +27,15 @@
   '--..' => 'Z'
 }
 
+def decode_morse_word(word)
+  letters = word.split
+  current_word = ''
+  letters.each do |letter|
+    get_letter = @dictionary[letter]
+    current_word += get_letter
+  end
+  print "#{current_word} "
+end
 
 
 def decode_morse_message(message)
