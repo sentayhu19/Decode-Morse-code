@@ -15,7 +15,6 @@ Vscode or anyother
 Setup
 ## Install
     Ruby
-    Usage
 ## Run tests
     Run bundle install
     Run rubocop
