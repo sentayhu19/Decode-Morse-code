@@ -1,16 +1,14 @@
 
-# Decode a Morse code message
+# Decode Morse code
 
+The Decode Morse code accepts Morse code as string and decodes. 
 
-## Getting Started
+### Cloning the project
 
-This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
-
-To get a local copy up and running follow these simple example steps.
-
-Clone the Project in the link
-https://github.com/sentayhu19/Decode-Morse-code.git
-
+ git clone https://github.com/sentayhu19/Decode-Morse-code.git <Your-Build-Directory>
+``` 
+- cd Decode-Morse-code
+```
 ## Prerequisites
 
 Vscode or anyother
@@ -38,7 +36,7 @@ Setup
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/sentayhu19/Decode-Morse-codeissues/).
 
 ## Show your support
 
