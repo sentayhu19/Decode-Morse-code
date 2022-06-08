@@ -37,7 +37,6 @@ def decode_morse_word(word)
   print "#{current_word} "
 end
 
-
 def decode_morse_message(message)
   words = message.split('   ')
   words.each do |word|
